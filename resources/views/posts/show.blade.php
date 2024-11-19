@@ -22,7 +22,7 @@
              <td>{{ $post->content }}</td>
          </tr>    
          <tr>
-             <th>作成日常</th>
+             <th>作成日時</th>
              <td>{{ $post->created_at }}</td>
          </tr>    
          <tr>
